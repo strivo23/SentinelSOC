@@ -1,0 +1,6 @@
+scenario_id,detected
+normal,false
+brute_force,true
+multi_username,true
+invalid_enum,true
+failure_then_success,true

@@ -1,0 +1,6 @@
+scenario_id,source_ip,ground_truth
+normal,192.0.2.10,false
+brute_force,203.0.113.40,true
+multi_username,203.0.113.41,true
+invalid_enum,203.0.113.42,true
+failure_then_success,198.51.100.55,true

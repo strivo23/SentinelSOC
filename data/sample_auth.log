@@ -1,0 +1,20 @@
+Feb 14 09:00:00 lab-host sshd[2200]: Accepted publickey for analyst from 192.0.2.10 port 2202 ssh2
+Feb 14 09:02:01 lab-host sshd[2200]: Accepted publickey for operator from 192.0.2.10 port 2202 ssh2
+Feb 14 09:04:02 lab-host sshd[2200]: Accepted publickey for analyst from 192.0.2.10 port 2202 ssh2
+Feb 14 09:05:05 lab-host sshd[2200]: Failed password for operator from 198.51.100.20 port 4022 ssh2
+Feb 14 09:08:02 lab-host sshd[2200]: Accepted publickey for operator from 198.51.100.20 port 2202 ssh2
+Feb 14 09:10:00 lab-host sshd[2200]: Failed password for admin from 203.0.113.40 port 4022 ssh2
+Feb 14 09:10:30 lab-host sshd[2200]: Failed password for admin from 203.0.113.40 port 4022 ssh2
+Feb 14 09:11:00 lab-host sshd[2200]: Failed password for admin from 203.0.113.40 port 4022 ssh2
+Feb 14 09:11:30 lab-host sshd[2200]: Failed password for admin from 203.0.113.40 port 4022 ssh2
+Feb 14 09:12:00 lab-host sshd[2200]: Failed password for admin from 203.0.113.40 port 4022 ssh2
+Feb 14 09:20:00 lab-host sshd[2200]: Failed password for admin from 203.0.113.41 port 4022 ssh2
+Feb 14 09:20:35 lab-host sshd[2200]: Failed password for root from 203.0.113.41 port 4022 ssh2
+Feb 14 09:21:10 lab-host sshd[2200]: Failed password for guest from 203.0.113.41 port 4022 ssh2
+Feb 14 09:21:45 lab-host sshd[2200]: Failed password for oracle from 203.0.113.41 port 4022 ssh2
+Feb 14 09:30:00 lab-host sshd[2200]: Invalid user baduser from 203.0.113.42 port 4022
+Feb 14 09:30:40 lab-host sshd[2200]: Invalid user nobody from 203.0.113.42 port 4022
+Feb 14 09:31:20 lab-host sshd[2200]: Invalid user testghost from 203.0.113.42 port 4022
+Feb 14 09:40:00 lab-host sshd[2200]: Failed password for analyst from 198.51.100.55 port 4022 ssh2
+Feb 14 09:40:30 lab-host sshd[2200]: Failed password for analyst from 198.51.100.55 port 4022 ssh2
+Feb 14 09:41:00 lab-host sshd[2200]: Accepted publickey for analyst from 198.51.100.55 port 2202 ssh2
